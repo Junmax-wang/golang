@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Junmaxs/Junmaxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jun/Junmax-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
